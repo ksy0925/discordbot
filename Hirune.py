@@ -261,4 +261,4 @@ async def on_ready():
     print(f'봇이 로그인했습니다: {bot.user.name}')
 
 # 봇 토큰으로 실행
-bot.run('MTIwNTQ2OTI5NDM0ODIxNDMxMw.GLVqSC.wENOWaM4WOZAEfJUcc4Fb7IeAkgXdwBe-PGFLY')  # 실제 봇 토큰으로 교체하세요.
+bot.run('')  # 실제 봇 토큰으로 교체하세요.
